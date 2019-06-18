@@ -29,7 +29,7 @@
 #else
 #define PART_SIZE_UBOOT		(512 * 1024)
 #endif
-#define PART_SIZE_KERNEL	(6 * 1024 * 1024)
+#define PART_SIZE_KERNEL	(10 * 1024 * 1024)
 #define PART_SIZE_ROOTFS	(26 * 1024 * 1024)
 #define PART_SIZE_TZSW		(160 * 1024)
 
